@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![dead end](https://upload.wikimedia.org/wikipedia/commons/c/c2/Irony.jpg)
